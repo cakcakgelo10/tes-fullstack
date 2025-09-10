@@ -47,3 +47,7 @@ Dokumentasi lengkap untuk semua *endpoint* yang tersedia dapat diakses melalui l
     npm run dev
     ```
     Server akan berjalan di `http://localhost:3000`.
+---
+    ## Frontend
+Proyek ini memiliki bagian frontend yang dibuat menggunakan Ionic/React. Silakan kunjungi repository frontend di sini:
+**[Repository Frontend: lms-frontend](https://github.com/cakcakgelo10/tes-fullstack-fe.git)**
